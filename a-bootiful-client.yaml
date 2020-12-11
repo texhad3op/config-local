@@ -23,3 +23,6 @@ device-events:
         fixed-delay: 10003
     cleanup:
         cron: 0 0 3 * * *
+        
+login-link:
+    http://someserver/local-link        
