@@ -16,7 +16,7 @@ timezone:
 rzero:
     auth-header: 'Basic YWRtaW46cnplcm8kITIwMjA='
     firmware:
-        chunkSize: 10249
+        chunkSize: 10250
 
 device-events:
     sqs:
