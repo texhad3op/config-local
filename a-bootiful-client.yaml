@@ -7,7 +7,7 @@ management:
 message:  Hello 397!
 
 aws:
-    policy-name: Rzero-v2-Devices-IoT-Policy
+    policy-name: Rzero-v2-Devices-IoT-Policy22
     iot-endpoint: arlgzy0w0k4vc-ats.iot.us-east-1.amazonaws.com
 
 timezone:
@@ -16,7 +16,7 @@ timezone:
 rzero:
     auth-header: 'Basic YWRtaW46cnplcm8kITIwMjA='
     firmware:
-        chunkSize: 10245
+        chunkSize: 10249
 
 device-events:
     sqs:
