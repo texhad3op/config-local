@@ -19,4 +19,4 @@ device-events:
         cron: 0 0 3 * * *
 
 login-link:
-    http://someserver/qa-link-336
+    http://someserver/qa-link-337
