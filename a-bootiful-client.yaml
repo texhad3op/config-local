@@ -25,4 +25,4 @@ device-events:
         cron: 0 0 3 * * *
         
 login-link:
-    http://someserver/local-link        
+    http://someserver/local-link2        
