@@ -20,6 +20,6 @@ rzero:
 
 device-events:
     sqs:
-        fixed-delay: 10001
+        fixed-delay: 10002
     cleanup:
         cron: 0 0 3 * * *
